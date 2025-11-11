@@ -243,3 +243,13 @@
     }
   }
 }
+
+.archive .publications-archive {
+  .list__item {
+    padding-right: 0;
+  }
+
+  .archive__item {
+    max-width: none;
+  }
+}
