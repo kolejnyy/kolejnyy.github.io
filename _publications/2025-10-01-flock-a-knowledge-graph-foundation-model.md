@@ -7,7 +7,6 @@ excerpt: 'Relying on random walks to traverse the input graph, Flock introduces 
 date: 2025-10-01
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/pdf/2510.01510'
-citation: 'J. Kim, X. Huang, K. Olejniczak, K. Min, M. Bronstein, S. Hong, İ. İ. Ceylan (2025). "Flock: A Knowledge Graph Foundation Model via Learning on Random Walks." arXiv:2510.01510.'
 ---
 
 Preprint. See arXiv for updates and code links.
